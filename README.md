@@ -1,7 +1,8 @@
 # vue-demo for newcomer
 
-> vue router vuex 示例  elementui infinite-loading   wechat as211025 234501354@qq.com :)
 
+> vue router vuex eleui 示例 
+> elementui infinite-scroll; wechat: as211025 ; mail:234501354@qq.com :)
 ## Build Setup
 
 ``` bash
@@ -27,7 +28,7 @@ npm run e2e
 npm test
 ```
 > 下面是我看到一些挺有用的收藏 可以相互学习借鉴 thx
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+>  For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 :smiley_cat:_These share data are from my usual work and learning，hoping to help you，If you like you can star_
 
