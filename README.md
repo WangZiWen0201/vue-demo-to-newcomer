@@ -27,7 +27,9 @@ npm run e2e
 # run all tests
 npm test
 ```
-> 下面是我看到一些挺有用的收藏 可以相互学习借鉴 thx
+> 下面是我看到一些挺有用的收藏 可以相互学习借鉴 thx.
+> 更多vue框架的学习交流可以eamil -> 234501354@qq.com
+>
 >  For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 :smiley_cat:_These share data are from my usual work and learning，hoping to help you，If you like you can star_
