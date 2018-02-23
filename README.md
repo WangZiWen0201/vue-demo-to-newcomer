@@ -1,4 +1,4 @@
-# vue-demo for newcomer
+# vue-demo to newcomer
 
 
 > vue router vuex eleui 示例 
